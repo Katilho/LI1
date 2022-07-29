@@ -1,4 +1,9 @@
-A97478,João Pedro de Oliveira Teixeira,joaoteixeira5 
+# LI1
+Jogo do Pacman em Haskell.
 
-A97613,Pedro Miguel Castilho Martins,Katilho 
+## 🤝 Contributors
+- João Pedro de Oliveira Teixeira,joaoteixeira5 
+- Pedro Miguel Castilho Martins,Katilho 
 
+## Grade  
+Grade: 14/20
